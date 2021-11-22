@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.b46abd11.chunk.css",
+    "main.js": "/my-app/static/js/main.72ecbc33.chunk.js",
+    "main.js.map": "/my-app/static/js/main.72ecbc33.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.fd1b1942.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.fd1b1942.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/my-app/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.3753d260.chunk.js": "/my-app/static/js/2.3753d260.chunk.js",
+    "static/js/2.3753d260.chunk.js.map": "/my-app/static/js/2.3753d260.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/my-app/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.b46abd11.chunk.css.map": "/my-app/static/css/main.b46abd11.chunk.css.map",
+    "static/js/2.3753d260.chunk.js.LICENSE.txt": "/my-app/static/js/2.3753d260.chunk.js.LICENSE.txt",
+    "static/media/am.68e30fd1.jpg": "/my-app/static/media/am.68e30fd1.jpg",
+    "static/media/appp.c6725750.png": "/my-app/static/media/appp.c6725750.png",
+    "static/media/blog.7cc85274.png": "/my-app/static/media/blog.7cc85274.png",
+    "static/media/bootstrap-icons.css": "/my-app/static/media/bootstrap-icons.7d38a258.woff",
+    "static/media/boxicons.min.css": "/my-app/static/media/boxicons.cbd149c5.ttf",
+    "static/media/covinews.64709c48.png": "/my-app/static/media/covinews.64709c48.png",
+    "static/media/ctop.72253e3f.PNG": "/my-app/static/media/ctop.72253e3f.PNG",
+    "static/media/forecast.e71bc45d.png": "/my-app/static/media/forecast.e71bc45d.png",
+    "static/media/im.06ea205f.jpg": "/my-app/static/media/im.06ea205f.jpg",
+    "static/media/pp.6059b4ff.jpg": "/my-app/static/media/pp.6059b4ff.jpg",
+    "static/media/rdc.4b9f8279.PNG": "/my-app/static/media/rdc.4b9f8279.PNG",
+    "static/media/sm.2f2f637e.gif": "/my-app/static/media/sm.2f2f637e.gif",
+    "static/media/tg.a153878d.png": "/my-app/static/media/tg.a153878d.png",
+    "static/media/App.css": "/my-app/static/media/wall.e50fb03a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd1b1942.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.3753d260.chunk.js",
+    "static/css/main.b46abd11.chunk.css",
+    "static/js/main.72ecbc33.chunk.js"
+  ]
+}
